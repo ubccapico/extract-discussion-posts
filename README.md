@@ -20,7 +20,9 @@ The purpose of this script is to provide an easy way for instructors to track ea
 1. Log-in to canvas.ubc.ca
 2. Click on "Account" on the left hand Global Navigation menu
 3. Click on "Settings" 
+
 ![settings](https://github.com/jguarin16/screenshots/blob/master/account_settings.png)
+
 4. Scroll to the very bottom of the page, then click on the ![new_access_token](https://github.com/jguarin16/screenshots/blob/master/access_token_button.png)
 5. Provide a purpose under the "Purpose feed", then click on "Generate Token"
 ![access-token-window](https://github.com/jguarin16/screenshots/blob/master/access_token_window.png)
