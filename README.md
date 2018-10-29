@@ -23,16 +23,20 @@ The purpose of this script is to provide an easy way for instructors to track ea
 
 ![settings](https://github.com/jguarin16/screenshots/blob/master/account_settings.png)
 
-4. Scroll to the very bottom of the page, then click on the ![new_access_token](https://github.com/jguarin16/screenshots/blob/master/access_token_button.png)
+4. Scroll to the very bottom of the page, then click on the ![new_access_token](https://github.com/jguarin16/screenshots/blob/master/access_token_button.png) button
 5. Provide a purpose under the "Purpose feed", then click on "Generate Token"
+
 ![access-token-window](https://github.com/jguarin16/screenshots/blob/master/access_token_window.png)
+
 6. Copy and Paste the token provided to you onto a secure/encrypted text file in your local machine. Once you close this window, you will not be able to access the token again, so please be careful where you save your text file.
+
 ![access-token-details](https://github.com/jguarin16/screenshots/blob/master/save_token.png)
 
 ## How to run the script
 1. Open the "main_app.py" with your python 3 IDLE
 2. Click on "Run" then Run Module (the shortcut key for this is the F5 key)
 3. If it ran successfully, a window will open:
+
 ![scrape-discussions-window](https://github.com/jguarin16/screenshots/blob/master/scrape_diss_window.png)
 
 If you encounter any errors, please contact arts.helpdesk@ubc.ca
