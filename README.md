@@ -13,7 +13,7 @@ The purpose of this script is to provide an easy way for instructors to track ea
 ## Requirements
 - Python 3
 - A Canvas API Token 
-- The base URL "https://canvas.ubc.ca"
+- The base URL "https://canvas.ubc.ca" or the testing instance "https://ubc.test.instructure.com."
 - The course ID of the course. For example: https://ubc.instructure.com/courses/29 (the Course ID of this course is 29)
 
 ## How to get a Canvas API token
@@ -32,7 +32,7 @@ The purpose of this script is to provide an easy way for instructors to track ea
 
 ![access-token-details](https://github.com/jguarin16/screenshots/blob/master/save_token.png)
 
-## How to run the script
+## How to run the script (MAC Only)
 1. Open the "main_app.py" with your python 3 IDLE
 2. Click on "Run" then Run Module (the shortcut key for this is the F5 key)
 3. If it ran successfully, a window will open:
@@ -45,3 +45,6 @@ If you encounter any errors, please contact arts.helpdesk@ubc.ca
 5. Click on Ok
 6. Wait until the message below the "Ok" and "Cancel" says "Done"
 7. The HTML files will be in a folder in the same directory as the script, titled with the course you extracted the discussions from
+
+## How to run the script (can for Windows)
+Open the the main_app.py executable file!
