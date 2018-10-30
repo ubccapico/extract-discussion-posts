@@ -47,4 +47,4 @@ If you encounter any errors, please contact arts.helpdesk@ubc.ca
 7. The HTML files will be in a folder in the same directory as the script, titled with the course you extracted the discussions from
 
 ## How to run the script (can for Windows)
-Open the the main_app.py executable file!
+Open the the main_app.exe file, folow steps 4-7 from the steps above.
